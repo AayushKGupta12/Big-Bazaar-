@@ -17,7 +17,9 @@ If you haven’t already, download and install **Power BI Desktop** from the off
 
 Go to my GitHub repository and download the `.pbix` file (Power BI report file)
 
-> Make sure to click on the green **Code** button → then download the `.pbix` file.
+ Make sure to click on the green **Code** button → then download the `.pbix` file.
+ ![Screenshot 2025-04-26 170109](https://github.com/user-attachments/assets/2e809f80-dfe8-428d-bfbb-5e7dd3b0b128)
+
 
 ### 3️⃣ Open the Report
 
